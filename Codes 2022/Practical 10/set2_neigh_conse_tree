@@ -1,0 +1,83 @@
+
+Consensus tree program, version 3.695
+
+Species in order: 
+
+  1. sp|P69907|
+  2. sp|P06635|
+  3. sp|P01959|
+  4. sp|P01965|
+  5. sp|P60529|
+  6. tr|E7QXB8|
+  7. tr|D2S1E6|
+  8. tr|E7QQB9|
+  9. tr|D2S0D9|
+  10. tr|E1K4V0|
+
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of   10.00
+
+.....*****                  10.00
+......**..                   8.00
+..********                   6.00
+..***.....                   5.00
+......****                   5.00
+........**                   4.00
+...**.....                   3.00
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of   10.00
+
+..**.*****                   4.00
+.....***..                   4.00
+..*..*****                   3.00
+.....***.*                   2.00
+......**.*                   2.00
+.*...*****                   2.00
+...*.*****                   2.00
+..**......                   2.00
+......***.                   2.00
+.****.....                   1.00
+......*.**                   1.00
+.***.*****                   1.00
+.....**...                   1.00
+..*.*.....                   1.00
+.....**.**                   1.00
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers on the branches indicate the number
+of times the partition of the species into the two sets
+which are separated by that branch occurred
+among the trees, out of  10.00 trees
+
+                                  +---------------sp|P01959|
+                  +----------5.00-|
+                  |               |       +-------sp|P01965|
+                  |               +--3.00-|
+          +--6.00-|                       +-------sp|P60529|
+          |       |
+          |       |       +-----------------------tr|E7QXB8|
+          |       |       |
+          |       +--10.0-|               +-------tr|E7QQB9|
+          |               |       +--8.00-|
+  +-------|               |       |       +-------tr|D2S1E6|
+  |       |               +--5.00-|
+  |       |                       |       +-------tr|D2S0D9|
+  |       |                       +--4.00-|
+  |       |                               +-------tr|E1K4V0|
+  |       |
+  |       +---------------------------------------sp|P06635|
+  |
+  +-----------------------------------------------sp|P69907|
+
+
+  remember: this is an unrooted tree!
+
